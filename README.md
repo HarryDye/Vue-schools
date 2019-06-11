@@ -23,6 +23,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 cd C:\Users\harry.dye\Documents\Treehouse\Vue\vueschool-forum
 yarn dev
 
+copy env.example to env file. Then fill out the firebase api key.
+
 this uses firebase as a database - https://firebase.google.com/
     commandline: firebase is for commands 
     docs: https://firebase.google.com/docs?authuser=0
